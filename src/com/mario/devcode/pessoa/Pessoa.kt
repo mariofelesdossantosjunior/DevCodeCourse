@@ -1,4 +1,4 @@
-package com.mario.devcode
+package com.mario.devcode.pessoa
 
 /**
  * Created by mario on 17/07/17.

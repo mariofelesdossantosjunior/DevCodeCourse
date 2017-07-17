@@ -1,4 +1,6 @@
-package com.mario.devcode
+package com.mario.devcode.classes
+
+import com.mario.devcode.pessoa.Pessoa
 
 /**
  * Created by mario on 17/07/17.

@@ -1,4 +1,4 @@
-package com.mario.devcode
+package com.mario.devcode.funcoes
 
 /**
  * Created by mario on 17/07/17.
@@ -6,7 +6,7 @@ package com.mario.devcode
 fun main(args: Array<String>) {
     println("Inicio do Curso")
 
-    println(somar(2,4))
+    println(somar(2, 4))
 
     println(ehMaiorDeIdade(20))
 
